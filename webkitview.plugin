@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=webkitview
+IAge=3
+Name=Webkitview
+Description=A Webkit viewer for Gedit.
+Authors=Georgios Migdos <cyberpython@gmail.com>
+Copyright=Copyright © 2011 Georgios Migdos <cyberpython@gmail.com>
